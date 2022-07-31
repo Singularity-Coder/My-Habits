@@ -7,7 +7,7 @@
         android:top="0dp">
 
         <shape>
-            <solid android:color="@color/purple_500" />
+            <solid android:color="@color/purple_50" />
             <corners android:radius="@dimen/day_circle_radius" />
         </shape>
     </item>

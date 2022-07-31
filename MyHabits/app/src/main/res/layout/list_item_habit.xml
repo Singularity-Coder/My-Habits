@@ -13,6 +13,7 @@
         android:checked="true"
         android:minWidth="0dp"
         android:minHeight="0dp"
+        android:layout_marginStart="-4dp"
         android:textAppearance="@style/TextAppearance.Material3.BodyLarge"
         android:paddingStart="16dp"
         android:text="My Habit"

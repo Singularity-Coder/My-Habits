@@ -9,6 +9,13 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.singularitycoder.myhabits.databinding.FragmentHomeBinding
 import dagger.hilt.android.AndroidEntryPoint
 
+// Max 10 habits per day
+// Set green checkmark on the day all habits are checked
+// Set red cross mark for the old days which are not completed on the same day
+// Disable checking items in the old days
+// On checking all items in the list show a GIF
+
+
 @AndroidEntryPoint
 class HomeFragment : Fragment() {
 
