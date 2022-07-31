@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../.gradle/caches/transforms-3/66fe7daf4453f99374cb68c869106f86/transformed/Collapsible-Calendar-View-Android-v1.0.3/res/drawable/circle_white_stroke_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_calender_selected.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_round_calendar_today_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_round_horizontal_rule_24.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.12993920972644377" />
+        <entry key="app/src/main/res/layout/list_item_habit.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
