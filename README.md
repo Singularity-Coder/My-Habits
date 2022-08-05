@@ -1,3 +1,4 @@
+![alt text](https://github.com/Singularity-Coder/My-Habits/blob/main/assets/logo192.png)
 # My-Habits
 Tune yourself!
 
